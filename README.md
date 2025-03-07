@@ -24,7 +24,7 @@ A Telegram bot that generates concise summaries using OpenAI's API, allowing use
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/object-tracking.git
+   git clone https://github.com/polinamenshikova/Summify.git
    ```
 2. Install dependencies:
    ```sh

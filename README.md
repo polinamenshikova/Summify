@@ -21,6 +21,9 @@ A Telegram bot that generates concise summaries using OpenAI's API, allowing use
 3. The summarized output is sent back in a few bullet points.
 4. The session can be ended with `/cancel`.
 
+## Video Demonstration
+Watch the demo: [YouTube Link](https://youtu.be/P-KMsJZOCyg)
+
 ## Installation
 1. Clone the repository:
    ```sh
